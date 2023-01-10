@@ -20,14 +20,12 @@
 **Languages and Tools:**
 <p>
   <code><img width="8%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="8%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <code><img width="8%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
   <code><img width="8%" src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg"></code>
 </p>
 <br />
 <p>
   <code><img width="8%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
-  <code><img width="8%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
   <code><img width="8%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
   <code><img width="8%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
 </p>
